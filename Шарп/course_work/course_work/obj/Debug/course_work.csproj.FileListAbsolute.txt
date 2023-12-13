@@ -1,0 +1,140 @@
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\MainWindow.g.cs
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\App.g.cs
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work_MarkupCompile.cache
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work_MarkupCompile.lref
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\bin\Debug\course_work.exe.config
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\bin\Debug\course_work.exe
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\bin\Debug\course_work.pdb
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\MainWindow.baml
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work.g.resources
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work.Properties.Resources.resources
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.GenerateResource.cache
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work.exe
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work.pdb
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\AddDialog.g.cs
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\MainWindow.g.cs
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\App.g.cs
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work_MarkupCompile.cache
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work_MarkupCompile.lref
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work.exe
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work.pdb
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\bin\Debug\course_work.exe.config
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\bin\Debug\course_work.exe
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\bin\Debug\course_work.pdb
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\AddDialog.baml
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\MainWindow.baml
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work.g.resources
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work.Properties.Resources.resources
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.GenerateResource.cache
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.CopyComplete
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\bin\Debug\Newtonsoft.Json.dll
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\bin\Debug\Newtonsoft.Json.xml
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\AddDialog.g.cs
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\AddDialog.baml
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.CopyComplete
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csprojAssemblyReference.cache
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\obj\Debug\AddDialog.g.cs
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\obj\Debug\MainWindow.g.cs
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\obj\Debug\App.g.cs
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\obj\Debug\course_work_MarkupCompile.cache
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\obj\Debug\course_work_MarkupCompile.lref
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\obj\Debug\course_work.exe
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\obj\Debug\course_work.pdb
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\bin\Debug\course_work.exe.config
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\bin\Debug\course_work.exe
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\bin\Debug\course_work.pdb
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\obj\Debug\AddDialog.baml
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\obj\Debug\MainWindow.baml
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\obj\Debug\course_work.g.resources
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\obj\Debug\course_work.Properties.Resources.resources
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.GenerateResource.cache
+C:\Users\nik-f\Desktop\Никит_ОЧКА\Игоры\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.CopyComplete
+C:\Users\nik-f\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csprojAssemblyReference.cache
+C:\Users\79537\Desktop\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csprojAssemblyReference.cache
+D:\Study\coursework ПОГи\course_work\course_work\bin\Debug\course_work.exe.config
+D:\Study\coursework ПОГи\course_work\course_work\bin\Debug\course_work.exe
+D:\Study\coursework ПОГи\course_work\course_work\bin\Debug\course_work.pdb
+D:\Study\coursework ПОГи\course_work\course_work\bin\Debug\Newtonsoft.Json.dll
+D:\Study\coursework ПОГи\course_work\course_work\bin\Debug\Newtonsoft.Json.xml
+D:\Study\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.AssemblyReference.cache
+D:\Study\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.SuggestedBindingRedirects.cache
+D:\Study\coursework ПОГи\course_work\course_work\obj\Debug\AddDialog.g.cs
+D:\Study\coursework ПОГи\course_work\course_work\obj\Debug\MainWindow.g.cs
+D:\Study\coursework ПОГи\course_work\course_work\obj\Debug\App.g.cs
+D:\Study\coursework ПОГи\course_work\course_work\obj\Debug\course_work_MarkupCompile.cache
+D:\Study\coursework ПОГи\course_work\course_work\obj\Debug\course_work_MarkupCompile.lref
+D:\Study\coursework ПОГи\course_work\course_work\obj\Debug\AddDialog.baml
+D:\Study\coursework ПОГи\course_work\course_work\obj\Debug\MainWindow.baml
+D:\Study\coursework ПОГи\course_work\course_work\obj\Debug\course_work.g.resources
+D:\Study\coursework ПОГи\course_work\course_work\obj\Debug\course_work.Properties.Resources.resources
+D:\Study\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.GenerateResource.cache
+D:\Study\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.CoreCompileInputs.cache
+D:\Study\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.CopyComplete
+D:\Study\coursework ПОГи\course_work\course_work\obj\Debug\course_work.exe
+D:\Study\coursework ПОГи\course_work\course_work\obj\Debug\course_work.pdb
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\bin\Debug\course_work.exe.config
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\bin\Debug\course_work.exe
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\bin\Debug\course_work.pdb
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\bin\Debug\Newtonsoft.Json.dll
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\bin\Debug\Newtonsoft.Json.xml
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.AssemblyReference.cache
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\obj\Debug\AddDialog.g.cs
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\obj\Debug\MainWindow.g.cs
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\obj\Debug\App.g.cs
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\obj\Debug\course_work_MarkupCompile.cache
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\obj\Debug\course_work_MarkupCompile.lref
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\obj\Debug\AddDialog.baml
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\obj\Debug\MainWindow.baml
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\obj\Debug\course_work.g.resources
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\obj\Debug\course_work.Properties.Resources.resources
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.GenerateResource.cache
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.CoreCompileInputs.cache
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.CopyComplete
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\obj\Debug\course_work.exe
+C:\Users\molko\OneDrive\Рабочий стол\coursework ПОГи\course_work\course_work\obj\Debug\course_work.pdb
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\bin\Debug\course_work.exe.config
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\bin\Debug\course_work.exe
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\bin\Debug\course_work.pdb
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\obj\Debug\AddDialog.g.cs
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\obj\Debug\App.g.cs
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\obj\Debug\course_work_MarkupCompile.cache
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\obj\Debug\course_work_MarkupCompile.lref
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\obj\Debug\AddDialog.baml
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\obj\Debug\MainWindow.baml
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\obj\Debug\course_work.g.resources
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\obj\Debug\course_work.Properties.Resources.resources
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\obj\Debug\course_work.csproj.CopyComplete
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\obj\Debug\course_work.exe
+C:\Users\HP\Downloads\coursework_POGi (1)\coursework ПОГи\course_work\course_work\obj\Debug\course_work.pdb
+C:\Users\HP\Desktop\Шарп\course_work\course_work\bin\Debug\course_work.exe.config
+C:\Users\HP\Desktop\Шарп\course_work\course_work\bin\Debug\course_work.exe
+C:\Users\HP\Desktop\Шарп\course_work\course_work\bin\Debug\course_work.pdb
+C:\Users\HP\Desktop\Шарп\course_work\course_work\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Шарп\course_work\course_work\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Шарп\course_work\course_work\obj\Debug\course_work.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Шарп\course_work\course_work\obj\Debug\course_work.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Шарп\course_work\course_work\obj\Debug\AddDialog.g.cs
+C:\Users\HP\Desktop\Шарп\course_work\course_work\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\Шарп\course_work\course_work\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\Шарп\course_work\course_work\obj\Debug\course_work_MarkupCompile.cache
+C:\Users\HP\Desktop\Шарп\course_work\course_work\obj\Debug\course_work_MarkupCompile.lref
+C:\Users\HP\Desktop\Шарп\course_work\course_work\obj\Debug\AddDialog.baml
+C:\Users\HP\Desktop\Шарп\course_work\course_work\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\Шарп\course_work\course_work\obj\Debug\course_work.g.resources
+C:\Users\HP\Desktop\Шарп\course_work\course_work\obj\Debug\course_work.Properties.Resources.resources
+C:\Users\HP\Desktop\Шарп\course_work\course_work\obj\Debug\course_work.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Шарп\course_work\course_work\obj\Debug\course_work.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Шарп\course_work\course_work\obj\Debug\course_work.csproj.CopyComplete
+C:\Users\HP\Desktop\Шарп\course_work\course_work\obj\Debug\course_work.exe
+C:\Users\HP\Desktop\Шарп\course_work\course_work\obj\Debug\course_work.pdb
